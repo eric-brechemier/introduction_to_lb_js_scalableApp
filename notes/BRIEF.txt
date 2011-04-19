@@ -1,0 +1,17 @@
+Introduction to the Scalable JavaScript Application Framework
+by Legal-Box, Paris
+
+1. Intro (9')
+  * Layers of Responsibility
+  * Pub/Sub
+  * Sandboxing
+
+2. Pros and Cons (5')
+  * Reduced Coupling
+  * Code Reuse is Harder
+  * A New State of Mind
+
+3. How to Contribute (1')
+  * Write Demo Apps
+  * Fork the Project on GitHub
+  * Join Legal-Box 
