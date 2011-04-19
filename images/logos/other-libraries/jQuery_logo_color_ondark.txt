@@ -1,0 +1,4 @@
+Downloaded from:
+http://jquery.org/wp-content/uploads/2010/01/JQuery_identity.zip
+accessed through:
+http://jquery.org/about/

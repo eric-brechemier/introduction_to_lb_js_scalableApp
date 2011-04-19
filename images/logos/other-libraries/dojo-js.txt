@@ -1,0 +1,4 @@
+Downloaded from:
+http://www.webjax.eu/images/logos-frameworks/dojo-js.PNG
+accessed through:
+http://www.webjax.eu/r/1-Prototype.js-1-5-0-rc1-Ajax-Form-Array-Object-Insertion-Serializers
