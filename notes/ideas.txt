@@ -1,0 +1,60 @@
+TITLE SCREEN - branding, title
+CC-BY-SA (due to some pictures)
+=> URL of presentation
+=> Legal-Box logo - URL
+=> GitHub page - URL
+
+=> SLIDE TEMPLATE
+* title, page, code, thank you
+
+1. Intro (9')
+  * Layers of Responsibility
+= 3 SLIDES times 3 minutes
+
+IDEA1 = 1 YEAR ANNIVERSARY
+IDEA2 = SEPARATION OF CONCERNS
+IDEA3 = EVOLUTION OVER TIME: UPDATE, ADD, REMOVE MODULES
+
+=> find picture of birthday cake
+=> icons of browser logos and JavaScript libraries
+=> pencil annotations on top
+
+  * Pub/Sub
+=> sketches of 1,2,3 UI/DATA module with red lines for events
+=> successive pictures of the same drawing (the good scenario) - KEEP LAYERS
+IDEA1 = make HIGH TECH, not SPAGHETTI
+IDEA2 = 2 types of events intra-module (DOM events) and inter-module (application events)
+IDEA3 = EVOLUTION OVER TIME: UPDATE, ADD, REMOVE EVENTS
+
+  * Sandboxing
+IDEA1 = WORK IN ISOLATION
+IDEA2 = REDUCE INFORMATION OVERLOAD - Put your module developer hat
+IDEA3 = (SLOW) EVOLUTION OVER TIME: ADD METHODS (PLUGINS) - NO UPDATE OR REMOVE, THINK TWICE BEFORE ADDING - With your framework developer hat
+=> picture of a couch (developer) on top of module, Sandbox (and beyond... ?)
+
+2. Pros and Cons (5')
+= 3 SLIDES times 1'30 minutes
+  * Reduced Coupling
+=> find picture of ballons
+
+  * Code Reuse is Harder
+=> sample code of a module with typical getter/setter for various state (session id, user id)
+
+  * A New State of Mind
+=> find picture of cubicle
+=> find picture of paper plane (or draw one)
+=> find picture of sketchy brain (or draw one)
+
+3. How to Contribute (1')
+= 3 SLIDES times 30 seconds
+
+  * Write Demo Apps
+=> sketch Legal-Box
+=> sketch FLIP
+=> ? YOUR OWN
+
+  * Fork the Project on GitHub
+=> Home Page URL
+
+  * Join Legal-Box 
+=> THANK YOU, CREDITS
