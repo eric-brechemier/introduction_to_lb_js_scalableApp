@@ -1,0 +1,32 @@
+GOOD PRACTICES FOR SLIDES
+
+More slides
+Less information on each
+Variety and constants
+
+Full Screen Images to illustrate a concept
+
+Layer titles over images putting a semi-transparent black background behing the white title
+
+ONE BIG PHRASE (not even a sentence) with ONE COLORED WORD (for highlight and fast scanning) - SAME SIZE
+
+Dark/black background and Light/white text (easier on the eye using a projector)
+
+Gray background with optional  *vertical* gradient instead of white which might be too bright on a screen
+
+Smaller text and illustrations below to illustrate the message
+
+Syntax Highlighting for code
+No more than a vim window at a time ~20 lines
+
+pencil annotations: arrows and circles and text
+
+Thank you
+Contact Details
+=> Website, Email, Twitter
+Credits of images used
+
+BAD PRACTICES
+- different sizes for words in the same sentence
+- different fonts, font weights, text decorations within the same sentence
+- radial gradient (no sense of direction)
