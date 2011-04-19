@@ -22,7 +22,7 @@ REFERENCES
 
 AUTHOR
 
-  Eric Bréchemier <legalbox@eric.brechemier.name>
+  Eric BRECHEMIER <legalbox@eric.brechemier.name>
 
 LICENSE
 
