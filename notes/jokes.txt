@@ -1,0 +1,16 @@
+... kind of.
+
+Introduction
+"About the name of the project... Why choose something so long as
+The Scalable JavaScript Application Framework? First, because it is
+based on a presentation by Nicholas Zakas from Yahoo! entitled
+The Scalable JavaScript Application Architecture. Second, because we
+could not come up with something as *original* as my.js
+(Note: a framework presented at ParisJS in March) so we should
+to choose a name that was very *explicit* instead."
+
+We're Hiring...
+"To sum it up, we are looking for the spiritual child of
+Douglas Crockford and John Resig for 35k€... or a little more
+if you *truly* are the spiritual child of Douglas Crockford
+and John Resig"
