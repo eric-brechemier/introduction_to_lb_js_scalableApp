@@ -1,0 +1,7 @@
+Based on closure-library-logo.png,
+Downloaded from:
+http://code.google.com/p/closure-library/downloads/list
+Copyright Google, All Rights Reserved.
+
+Transparent background added in The Gimp by converting white color to
+transparency.
