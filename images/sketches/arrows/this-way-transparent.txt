@@ -1,0 +1,10 @@
+Adapted from arrows-this-way.jpg:
+  - cropped
+  - color balance: brightness:20, contrast:53
+  - added alpha channel
+  - colors> color to alpha: white to alpha
+  - converted to PNG
+
+License: Creative Commons Attribution Share Alike
+         Some rights reserved by Eric Bréchemier
+http://creativecommons.org/licenses/by-sa/2.0/
