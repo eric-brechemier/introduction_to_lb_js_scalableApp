@@ -1,0 +1,11 @@
+Adapted from legal-box-modules.jpg:
+  - cleaned-up with clone tool
+  - cropped
+  - colors> brightness-contrast: brightness:10, contrast:70
+  - added alpha channel
+  - colors> color to alpha: white to alpha
+  - converted to PNG
+
+License: Creative Commons Attribution Share Alike
+         Some rights reserved by Eric Bréchemier
+http://creativecommons.org/licenses/by-sa/2.0/

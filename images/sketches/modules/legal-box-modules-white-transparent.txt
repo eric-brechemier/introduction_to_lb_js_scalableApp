@@ -1,0 +1,11 @@
+Adapted from legal-box-modules.jpg:
+  - colors> brightness-contrast: brightness:10, contrast:32
+  - cropped
+  - added alpha channel
+  - removed dark background in top-right corner with lasso
+  - cleaned-up right part of the image with clone tool
+  - colors> brightness-contrast: contrast:30
+
+License: Creative Commons Attribution Share Alike
+         Some rights reserved by Eric Bréchemier
+http://creativecommons.org/licenses/by-sa/2.0/
