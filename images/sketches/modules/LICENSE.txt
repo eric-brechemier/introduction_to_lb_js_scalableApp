@@ -1,0 +1,10 @@
+data-message-list.jpg
+legal-box-modules.jpg
+message-list-sandbox.jpg
+user-interface-modules.jpg
+
+Picture of drawings I made.
+
+License: Creative Commons Attribution Share Alike
+         Some rights reserved by Eric Bréchemier
+http://creativecommons.org/licenses/by-sa/2.0/
