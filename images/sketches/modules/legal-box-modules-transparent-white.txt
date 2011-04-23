@@ -1,0 +1,6 @@
+Adapted from legal-box-modules-transparent.jpg:
+  - inverted colors
+
+License: Creative Commons Attribution Share Alike
+         Some rights reserved by Eric Bréchemier
+http://creativecommons.org/licenses/by-sa/2.0/
