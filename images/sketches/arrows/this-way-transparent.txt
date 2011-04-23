@@ -1,6 +1,6 @@
 Adapted from arrows-this-way.jpg:
   - cropped
-  - color balance: brightness:20, contrast:53
+  - colors> brightness-contrast: brightness:20, contrast:53
   - added alpha channel
   - colors> color to alpha: white to alpha
   - converted to PNG
