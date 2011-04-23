@@ -1,0 +1,8 @@
+Adapted from message-list-sandbox-white-less-details.jpg:
+  - added alpha channel
+  - colors> color to alpha: white to alpha
+  - saved as PNG
+
+License: Creative Commons Attribution Share Alike
+         Some rights reserved by Eric Bréchemier
+http://creativecommons.org/licenses/by-sa/2.0/

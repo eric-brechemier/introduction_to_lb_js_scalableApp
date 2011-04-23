@@ -1,0 +1,8 @@
+Adapted from message-list-sandbox.jpg:
+  - cropped
+  - colors> brightness-contrast: brightness:15, contrast:75  
+  - erased dark background in top-right corner with clone tool
+
+License: Creative Commons Attribution Share Alike
+         Some rights reserved by Eric Bréchemier
+http://creativecommons.org/licenses/by-sa/2.0/

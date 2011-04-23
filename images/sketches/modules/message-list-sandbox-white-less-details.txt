@@ -1,0 +1,7 @@
+Adapted from message-list-sandbox-white.jpg:
+  - cropped
+  - removed details of Sandbox methods with clone tool
+
+License: Creative Commons Attribution Share Alike
+         Some rights reserved by Eric Bréchemier
+http://creativecommons.org/licenses/by-sa/2.0/
