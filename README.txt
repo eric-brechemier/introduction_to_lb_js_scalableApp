@@ -42,5 +42,5 @@ COPYRIGHT
 
 HISTORY
 
-  20XX-XX-XX, First version presented at ParisJS on April 27, 2011
+  2011-04-27, First version presented at ParisJS on April 27, 2011
 
