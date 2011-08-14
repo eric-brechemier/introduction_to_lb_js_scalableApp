@@ -1,6 +1,5 @@
 
-Introduction to The Scalable JavaScript Application framework,
-  by Legal-Box, Paris
+Introduction to The Scalable JavaScript Application framework
 
 LANGUAGES
 
@@ -14,15 +13,15 @@ DESCRIPTION
 
 REFERENCES
 
-  [1] The Scalable JavaScript Application framework, by Legal-Box, Paris
-  https://github.com/legalbox/lb_js_scalableApp
+  [1] The Scalable JavaScript Application framework
+  https://github.com/eric-brechemier/lb_js_scalableApp
 
   [2] ParisJS - JavaScript user group in Paris
   http://parisjs.org/
 
 AUTHOR
 
-  Eric Bréchemier <legalbox@eric.brechemier.name>
+  Eric Bréchemier <github@eric.brechemier.name>
 
 LICENSE
 
@@ -31,8 +30,8 @@ LICENSE
 
 COPYRIGHT
 
+  Eric Bréchemier (c) 2011, Some Rights Reserved.
   Legal-Box SAS (c) 2011, All Rights Reserved.
-  http://www.legal-box.com
 
   Pictures downloaded from Flickr.com
   Licensed under Creative Commons Attribution and
@@ -43,4 +42,5 @@ COPYRIGHT
 HISTORY
 
   2011-04-27, First version presented at ParisJS on April 27, 2011
+  2011-08-14, Updated to reflect the move of the project to eric-brechemier
 
